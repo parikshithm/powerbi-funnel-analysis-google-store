@@ -16,9 +16,9 @@ This Power BI dashboard analyzes user behavior through the Google Merchandise St
 
 ## 📁 Files Included
 - `FunnelAnalysis.pbix` — Full Power BI dashboard
-- `funnel_data.csv` — Raw funnel data
+- `Overall_funnel.csv` — Raw funnel data
 - `category_funnel.csv` — Product category performance
-- `funnel_screenshot.png` — Visual preview of dashboard
+- `Funnel_Analysis_Google_Store.png` — Visual preview of dashboard
 
 ---
 
